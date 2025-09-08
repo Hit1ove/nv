@@ -1,0 +1,23 @@
+{
+  "versioniOS": "62.264",
+  "versionANDROID": "62.264",
+  "versionSERVER": "2.39.0",
+  "date": "2025-07-15",
+  "title": "Null's Brawl Update",
+
+  "newbrwlen": "Ziggy & Mina",
+  "newbrwlru": "Зигги и Мина",
+
+  "seasonBPen": "42 & 43",
+  "seasonBPru": "42 и 43",
+
+  "nameBPen": "Knights of the Starr Table",
+  "nameBPru": "Легенды загробного мира и Рыцари круглого стола Старр",
+
+  "minimalVios": "13",
+  "minimalVandroid": "7",
+  
+  "sizeiOS": "900",
+  "sizeAdnroid": "800",
+   "_comment": "SIZE MB"
+}
