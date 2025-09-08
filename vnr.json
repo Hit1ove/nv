@@ -1,0 +1,26 @@
+{
+  "versioniOS": "11.548.0",
+  "versionANDROID": "11.548.0",
+  "versionSERVER": "2.16.2",
+  "date": "2025-08-20",
+  "title": "Null's Brawl Update",
+
+  "PREversioniOS": "63.265",
+  "PREversionANDROID": "63.282",
+
+  "newcarden": "Ziggy & Mina",
+  "newbrwlru": "Императрица духов",
+
+  "emote": "483",
+  "cards": "120",
+
+  "season": "Goblins",
+  "seasonru": "Гоблины",
+
+  "minimalVios": "13",
+  "minimalVandroid": "7",
+  
+  "sizeiOS": "900",
+  "sizeAdnroid": "800",
+   "_comment": "SIZE MB"
+}
