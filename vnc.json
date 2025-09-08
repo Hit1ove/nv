@@ -1,0 +1,29 @@
+{
+  "versioniOS": "17.360.13",
+  "versionANDROID": "17.360.13",
+  "versionSERVER": "2.25",
+  "date": "2025-06-25",
+  "title": "Null's Brawl Update",
+
+  "PREversioniOS": "63.265",
+  "PREversionANDROID": "63.282",
+
+  "newunit": "Druid",
+  "newunitru": "Друид",
+
+  "newsuperunit": "Super Hog Rider",
+  "newsuperunitru": "Супервсадник на кабане",
+
+  "newunit": "483",
+  "newunitru": "120",
+
+  "townhall": "TH 17 with Crafting Station and Ice Block Spell",
+  "townhallru": "ТХ 17 с ремесленным станком заклинанием оледенение",
+
+  "minimalVios": "13",
+  "minimalVandroid": "7",
+  
+  "sizeiOS": "900",
+  "sizeAdnroid": "800",
+   "_comment": "SIZE MB"
+}
