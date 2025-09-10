@@ -17,9 +17,12 @@
   "newunit": "483",
   "newunitru": "120",
 
-  "townhall": "TH 17 with Crafting Station and Ice Block Spell",
-  "townhallru": "ТХ 17 с ремесленным станком заклинанием оледенение",
-
+  "townhall": "TH 17",
+  "townhallru": "ТХ 17",
+  
+  "townhalltext": "TH 17 with Crafting Station and Ice Block Spell",
+  "townhalltextru": "ТХ 17 с ремесленным станком заклинанием оледенение",
+  
   "minimalVios": "13",
   "minimalVandroid": "7",
   
