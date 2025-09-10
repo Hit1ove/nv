@@ -22,5 +22,8 @@
   
   "sizeiOS": "900",
   "sizeAdnroid": "800",
-   "_comment": "SIZE MB"
+   "_comment": "SIZE MB",
+  
+  "nr_youtube": "https://www.youtube.com/watch?v=45UB3Gfem7k",
+  "nr_youtube2": "800"
 }
