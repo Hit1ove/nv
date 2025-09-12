@@ -4,12 +4,14 @@
   "versionSERVER": "2.16.2",
   "date": "2025-08-20",
   "title": "text",
+  "PREversionANDROID": "11.548.4",
+  "PREversioniOSD": "11.548.4",
 
   "PREversioniOS": "63.265",
   "PREversionANDROID": "63.282",
 
-  "newcarden": "Ziggy & Mina",
-  "newbrwlru": "Императрица духов",
+  "newcarden": "Rework Furnace",
+  "newbrwlru": "Измененная Печь",
 
   "emote": "490",
   "cards": "121",
