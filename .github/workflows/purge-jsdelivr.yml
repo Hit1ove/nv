@@ -1,0 +1,19 @@
+name: Purge jsDelivr
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'vnr.json'
+      - 'vnb.json'
+      - 'vnc.json'
+
+jobs:
+  purge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Purge jsDelivr caches
+        run: |
+          curl -sS https://purge.jsdelivr.net/gh/Hit1ove/nv@main/vnr.json
+          curl -sS https://purge.jsdelivr.net/gh/Hit1ove/nv@main/vnb.json
+          curl -sS https://purge.jsdelivr.net/gh/Hit1ove/nv@main/vnc.json
