@@ -1,19 +1,24 @@
-name: Purge jsDelivr
+name: Purge jsDelivr (all JSON)
 
 on:
   push:
     branches: [ main ]
     paths:
-      - 'vnr.json'
-      - 'vnb.json'
-      - 'vnc.json'
+      - '**/*.json'
 
 jobs:
   purge:
     runs-on: ubuntu-latest
     steps:
-      - name: Purge jsDelivr caches
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Purge all JSON files from jsDelivr cache
         run: |
-          curl -sS https://purge.jsdelivr.net/gh/Hit1ove/nv@main/vnr.json
-          curl -sS https://purge.jsdelivr.net/gh/Hit1ove/nv@main/vnb.json
-          curl -sS https://purge.jsdelivr.net/gh/Hit1ove/nv@main/vnc.json
+          # найдём все json-файлы в репозитории
+          for f in $(find . -type f -name "*.json"); do
+            # убираем ./ в начале
+            rel="${f#./}"
+            echo "Purging $rel"
+            curl -sS "https://purge.jsdelivr.net/gh/${GITHUB_REPOSITORY}@main/$rel"
+          done
