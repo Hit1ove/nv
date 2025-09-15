@@ -1,10 +1,12 @@
-name: Purge jsDelivr (all JSON)
+name: Purge jsDelivr (JSON + CSS + JS)
 
 on:
   push:
     branches: [ main ]
     paths:
       - '**/*.json'
+      - '**/*.css'
+      - '**/*.js'
 
 jobs:
   purge:
@@ -13,11 +15,10 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Purge all JSON files from jsDelivr cache
+      - name: Purge JSON, CSS and JS files from jsDelivr cache
         run: |
-          # найдём все json-файлы в репозитории
-          for f in $(find . -type f -name "*.json"); do
-            # убираем ./ в начале
+          # найдём все json, css и js файлы в репозитории
+          for f in $(find . -type f \( -name "*.json" -o -name "*.css" -o -name "*.js" \)); do
             rel="${f#./}"
             echo "Purging $rel"
             curl -sS "https://purge.jsdelivr.net/gh/${GITHUB_REPOSITORY}@main/$rel"
