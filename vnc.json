@@ -1,8 +1,8 @@
 {
-  "versioniOS": "17.360.13",
-  "versionANDROID": "17.360.13",
+  "versioniOS": "17.477.13",
+  "versionANDROID": "17.477.13",
   "versionSERVER": "2.25",
-  "date": "2025-06-25",
+  "date": "2025-10-29",
   "title": "Null's Brawl Update",
 
   "PREversioniOS": "63.265",
@@ -20,8 +20,8 @@
   "townhall": "TH 17",
   "townhallru": "ТХ 17",
   
-  "townhalltext": "TH 17 with Crafting Station and Ice Block Spell",
-  "townhalltextru": "ТХ 17 с ремесленным станком заклинанием оледенение",
+  "townhalltext": "TH17 with the new Ranked System",
+  "townhalltextru": "ТХ 17 с новой ранговой системой",
   
   "minimalVios": "13",
   "minimalVandroid": "7",
