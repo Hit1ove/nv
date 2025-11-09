@@ -13,10 +13,7 @@
 
   "newsuperunit": "Super Hog Rider",
   "newsuperunitru": "Супервсадник на кабане",
-
-  "newunit": "483",
-  "newunitru": "120",
-
+  
   "townhall": "TH 17",
   "townhallru": "ТХ 17",
   
@@ -28,5 +25,5 @@
   
   "sizeiOS": "1",
   "sizeAdnroid": "2",
-   "_comment": "SIZE MB"
+  "_comment": "SIZE MB"
 }
