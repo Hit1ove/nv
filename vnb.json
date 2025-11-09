@@ -1,21 +1,21 @@
 {
-  "versioniOS": "63.265",
-  "versionANDROID": "63.286",
-  "versionSERVER": "2.39.0",
-  "date": "2025-09-12",
+  "versioniOS": "64.226",
+  "versionANDROID": "64.226",
+  "versionSERVER": "2.40.1",
+  "date": "2025-11-7",
   "title": "Null's Brawl Update",
 
-  "PREversioniOS": "63.265",
-  "PREversionANDROID": "63.282",
+  "PREversioniOS": "64.226",
+  "PREversionANDROID": "64.226",
 
-  "newbrwlen": "Ziggy & Mina",
-  "newbrwlru": "Зигги и Мина",
+  "newbrwlen": "Gigi",
+  "newbrwlru": "Джиджи",
 
-  "seasonBPen": "42 & 43",
-  "seasonBPru": "42 и 43",
+  "seasonBPen": "44 & 45",
+  "seasonBPru": "44 и 45",
 
-  "nameBPen": "Knights of the Starr Table",
-  "nameBPru": "Легенды загробного мира и Рыцари круглого стола Старр",
+  "nameBPen": "Stranger Things and Mechmas",
+  "nameBPru": "Очень странные дела и Меха-Рождество",
 
   "minimalVios": "13",
   "minimalVandroid": "7",
