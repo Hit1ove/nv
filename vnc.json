@@ -1,29 +1,32 @@
 {
-  "versioniOS": "17.477.13",
-  "versionANDROID": "17.477.13",
+  "versioniOS": "18.0.2",
+  "versionANDROID": "18.0.2",
   "versionSERVER": "2.25.1",
-  "date": "2025-10-29",
+  "date": "2025-11-24",
   "title": "Null's Brawl Update",
 
-  "PREversioniOS": "17.477.13",
-  "PREversionANDROID": "17.477.13",
+  "PREversioniOS": "18.0.2",
+  "PREversionANDROID": "18.0.2",
 
-  "newunit": "Druid",
-  "newunitru": "Друид",
+  "newunit": "Meteor Golem",
+  "newunitru": "Метеоритный голем",
+
+  "newspell": "Totem",
+  "newspell": "Тотем",
 
   "newsuperunit": "Super Hog Rider",
   "newsuperunitru": "Супервсадник на кабане",
   
-  "townhall": "TH 17",
-  "townhallru": "ТХ 17",
+  "townhall": "TH 18",
+  "townhallru": "ТХ 18",
   
-  "townhalltext": "TH17 with the new Ranked System",
-  "townhalltextru": "ТХ 17 с новой ранговой системой",
+  "townhalltext": "TH18 with the new Ranked System",
+  "townhalltextru": "ТХ 18 с новой ранговой системой",
   
   "minimalVios": "13",
   "minimalVandroid": "7",
   
-  "sizeiOS": "356,3",
-  "sizeAdnroid": "380,3",
+  "sizeiOS": "376,2",
+  "sizeAdnroid": "411,9",
   "_comment": "SIZE MB"
 }
