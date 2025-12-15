@@ -12,14 +12,17 @@
 
   "newcarden": "Evolution Royal Ghost & Skeleton Army",
   "newbrwlru": "Эволюции Королевского призрака и Армии скелетов",
+  "newhero": "Эволюции Королевского призрака и Армии скелетов",
+  "newevo": "Эволюции Королевского призрака и Армии скелетов",
 
-  "emote": "501",
+  "emote": "530",
   "cards": "121",
-  "towers": "124",
+  "towers": "128",
   "banner": "437",
-  "bannerframe": "431",
+  "bannerframe": "466",
   "champions": "8",
   "troopstower": "4",
+  "heroes": "4",
 
   "season": "Rock & Rule",
   "seasonru": "Рок на арене",
@@ -27,8 +30,8 @@
   "minimalVios": "13",
   "minimalVandroid": "7",
   
-  "sizeiOS": "938,2",
-  "sizeAndroid": "965,5",
+  "sizeiOS": "1064,1",
+  "sizeAndroid": "1096,52",
   
   "nr_youtube": "https://www.youtube.com/watch?v=45UB3Gfem7k",
   "nr_youtube2": "800"
