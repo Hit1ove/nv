@@ -1,1 +1,10 @@
-test
+{
+  "versioniOS": "13.300.6",
+  "versionANDROID": "13.300.6",
+
+
+ "hdpn1": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptazZtRVpZODAxVG8xbDRhYW50RUVX@45.14.247.107:2253#Hay Day 1",
+ "hdpn2": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzNGpqNlM5dkYycHFTUFR0N2ZlWmJW@185.242.87.237:19649#Hay Day 2",
+ "hdpn3": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptVG1xWThUWUJGWU9kbGFnVzV6NEIy@185.65.105.170:42900#Hay Day 3",
+ "end": "800"
+}
