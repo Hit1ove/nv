@@ -5,7 +5,8 @@
 
  "kvn": "<ul><li>🇩🇪Германия<ul><li>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxMkRqSFMwY1k0YlliczVTTjd1bW94@95.164.68.112:46478/?outline=1</li></ul></li><li>🇳🇱Нидерланды<ul><li>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplZjhROEZFd2VXWkppZG44QmtsRkZ3@45.120.178.81:37155/?outline=1</li></ul></li> <li>🇫🇮 Финляндия<ul><li>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsbFJRU3h3M2VySmhDRWxZZHdrczEy@45.159.249.7:31803/?outline=1</li></ul></li><li>🇹🇷 Турция<ul> <li>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkWXdYNXE1ZHUzVk9OUmZHVUVxRTVX@195.16.74.186:49214/?outline=1</li></ul></li> <li>🇺🇸 США<ul><li>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLQm5QSXVCTm91ZTVhY0ZwUTI4TEhn@74.119.194.192:41743/?outline=1</li></ul></li><li>🇸🇪 Швеция<ul><li>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3UEJtS3JFVXVBRmtYY2FyVjVyTFBI@94.131.98.172:27082/?outline=1</li></ul></li><li>🇨🇭 Швейцария<ul><li>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVUnB3djdPVlp6UmhxbjVkN3dxa0FR@94.131.99.168:26857/?outline=1</li></ul></li></ul>",
  
- "mncrftV": "1.21.92",
+ "mncrftV_ios": "1.21.92",
+ "mncrftV_andr": "1.21.92",
  "mncrftdate": "21.06.2025",
  "mncrftchange": "<ul><li>Исправлены различные ошибки</li></ul>",
  "mncrftpric": "6.99$",
