@@ -11,6 +11,12 @@
  "mncrftchange": "<ul><li>Исправлены различные ошибки</li></ul>",
  "mncrftpric": "6.99$",
  "mncrftsiz": "1.53 Гб",
+
+ "cert_ios_date": "2025-12-20",
+ "cert_ios_status_ru": "отозван",
+ "cert_ios_status_en": "revoked",
+ "cert_ios_name": "Commission on Elections",
+ 
  
  "sideloadlyVwindows": "0.26.5",
  "sideloadlyVmacos": "0.26.6",
