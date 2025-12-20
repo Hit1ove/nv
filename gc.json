@@ -12,7 +12,12 @@
  "mncrftchange": "<ul><li>Исправлены различные ошибки</li></ul>",
  "mncrftpric": "6.99$",
  "mncrftsiz": "1.53 Гб",
+ 
+ "sideloadlyVwindows": "0.26.5",
+ "sideloadlyVmacos": "0.26.6",
   
-  "end": "800"
+  
+  "end": "800",
   "end2": "10"
+  
 }
