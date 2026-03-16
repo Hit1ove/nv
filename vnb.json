@@ -1,26 +1,26 @@
 {
-  "versioniOS": "65.165",
-  "versionANDROID": "65.165",
+  "versioniOS": "66.293",
+  "versionANDROID": "66.293",
   "versionSERVER": "2.42.0",
-  "date": "2026-01-06",
+  "date": "2026-03-16",
   "title": "Null's Brawl Update",
 
-  "PREversioniOS": "65.165",
-  "PREversionANDROID": "65.165",
+  "PREversioniOS": "66.293",
+  "PREversionANDROID": "66.293",
 
-  "newbrwlen": "Pierce & Glowbert",
-  "newbrwlru": "Глоуберт и Пирс",
+  "newbrwlen": "Sirius and Najia",
+  "newbrwlru": "Сириусом и Наджией",
 
-  "seasonBPen": "46 & 47",
-  "seasonBPru": "46 и 47",
+  "seasonBPen": "48 & 49",
+  "seasonBPru": "48 и 49",
 
-  "nameBPen": "Steampunk and Brawlentine's",
-  "nameBPru": "Стимпанк и День влюбленных",
+  "nameBPen": "Sands of Time and Dragons and Faeries",
+  "nameBPru": "Пески времени и Феи и драконы",
 
   "minimalVios": "13",
   "minimalVandroid": "7",
   
   "sizeiOS": "1005",
-  "sizeAdnroid": "1007",
+  "sizeAdnroid": "1008",
    "_comment": "SIZE MB"
 }
