@@ -27,8 +27,8 @@
   "minimalVios": "13",
   "minimalVandroid": "7",
   
-  "sizeiOS": "1064,1",
-  "sizeAndroid": "1096,52",
+  "sizeiOS": "1070",
+  "sizeAndroid": "1100",
   
   "nr_youtube": "https://www.youtube.com/watch?v=45UB3Gfem7k",
   "nr_youtube2": "800"
