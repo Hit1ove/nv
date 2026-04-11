@@ -19,6 +19,8 @@
   
   "townhall": "TH 18",
   "townhallru": "ТХ 18",
+  "bh": "BH 10",
+  "bhru": "ДС 10",
   
   "townhalltext": "TH18 with the new Ranked System",
   "townhalltextru": "ТХ 18 с новой ранговой системой",
@@ -26,7 +28,7 @@
   "minimalVios": "13",
   "minimalVandroid": "7",
   
-  "sizeiOS": "376,2",
-  "sizeAdnroid": "411,9",
+  "sizeiOS": "420,6",
+  "sizeAdnroid": "446,8",
   "_comment": "SIZE MB"
 }
