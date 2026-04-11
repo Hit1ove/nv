@@ -1,12 +1,12 @@
 {
-  "versioniOS": "18.0.2",
-  "versionANDROID": "18.0.2",
+  "versioniOS": "18.200.19",
+  "versionANDROID": "18.200.24",
   "versionSERVER": "2.25.1",
-  "date": "2025-11-22",
+  "date": "2026-04-11",
   "title": "Null's Brawl Update",
 
-  "PREversioniOS": "18.0.2",
-  "PREversionANDROID": "18.0.2",
+  "PREversioniOS": "18.200.19",
+  "PREversionANDROID": "18.200.24",
 
   "newunit": "Meteor Golem",
   "newunitru": "Метеоритный голем",
