@@ -1,26 +1,26 @@
 {
-  "versioniOS": "66.293",
-  "versionANDROID": "66.293",
-  "versionSERVER": "2.42.1",
-  "date": "2026-03-16",
+  "versioniOS": "67.264",
+  "versionANDROID": "67.264",
+  "versionSERVER": "2.43.0",
+  "date": "2026-05-04",
   "title": "Null's Brawl Update",
 
   "PREversioniOS": "66.293",
   "PREversionANDROID": "66.293",
 
-  "newbrwlen": "Sirius and Najia",
-  "newbrwlru": "Сириусом и Наджией",
+  "newbrwlen": "Damian, Starr Nova and Bolt",
+  "newbrwlru": "Дамианом, Старр Нова и Болтом",
 
-  "seasonBPen": "48 & 49",
-  "seasonBPru": "48 и 49",
+  "seasonBPen": "50 & 51",
+  "seasonBPru": "50 и 51",
 
-  "nameBPen": "Sands of Time and Dragons and Faeries",
-  "nameBPru": "Пески времени и Феи и драконы",
+  "nameBPen": "Star Patrol and Brawl Football",
+  "nameBPru": "Звездный патруль и Brawl-футбол",
 
   "minimalVios": "13",
   "minimalVandroid": "7",
   
-  "sizeiOS": "1005",
-  "sizeAdnroid": "1008",
-   "_comment": "SIZE MB"
+  "sizeiOS": "1015",
+  "sizeAdnroid": "1018",
+  "_comment": "SIZE MB"
 }
