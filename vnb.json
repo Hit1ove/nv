@@ -11,16 +11,60 @@
   "newbrwlen": "Nori and Wendy",
   "newbrwlru": "Нори и Венди",
 
-  "seasonBPen": "50 & 51",
-  "seasonBPru": "50 и 51",
+  "seasonBPen": "52 & 53",
+  "seasonBPru": "52 и 53",
 
   "nameBPen": "NanoNoodles and Windstock",
-  "nameBPru": "Раменный бунт и индсток",
+  "nameBPru": "Раменный бунт и Виндсток",
 
   "minimalVios": "15",
   "minimalVandroid": "7",
   
   "sizeiOS": "1142,9",
   "sizeAdnroid": "1168,2",
-  "_comment": "SIZE MB"
+  "_comment": "SIZE MB",
+
+"newbrwlde": "Nori und Wendy",
+"seasonBPde": "52 & 53",
+"nameBPde": "NanoNudeln und Windstock",
+
+"newbrwltr": "Nori ve Wendy",
+"seasonBPtr": "52 ve 53",
+"nameBPtr": "NanoNoodle ve Windstock",
+
+"newbrwles": "Nori y Wendy",
+"seasonBPes": "52 y 53",
+"nameBPes": "Nanofideos y Eolia",
+
+"newbrwlfr": "Nori et Wendy",
+"seasonBPfr": "52 et 53",
+"nameBPfr": "NanoNoodles et Windstock",
+
+"newbrwlit": "Nori e Wendy",
+"seasonBPit": "52 e 53",
+"nameBPit": "Nanonoodles ed Eolia",
+
+"newbrwlpl": "Nori i Wendy",
+"seasonBPpl": "52 i 53",
+"nameBPpl": "NanoNoodles i Windstock",
+
+"newbrwlja": "ノリとウェンディ",
+"seasonBPja": "52と53",
+"nameBPja": "ナノヌードルとウィンドストック",
+
+"newbrwlko": "노리와 웬디",
+"seasonBPko": "52와 53",
+"nameBPko": "나노누들과 윈드스탁",
+
+"newbrwlhi": "Nori and Wendy",
+"seasonBPhi": "52 & 53",
+"nameBPhi": "NanoNoodles and Windstock",
+
+"newbrwlptBR": "Nori e Wendy",
+"seasonBPptBR": "52 e 53",
+"nameBPptBR": "NanoNoodles e Ventópole",
+
+"newbrwlzhCN": "阿宪和温蒂",
+  "seasonBPzhCN": "52和53",
+  "nameBPzhCN": "纳米面条和集风城"
 }
