@@ -11,63 +11,74 @@
   "PREversioniOS": "68.279",
   "PREversionANDROID": "68.279",
 
-  "newbrwlen": "Nori and Wendy",
   "newbrwlru": "Нори и Венди",
-
-  "seasonBPen": "52 & 53",
   "seasonBPru": "52 и 53",
-
-  "nameBPen": "NanoNoodles and Windstock",
   "nameBPru": "Раменный бунт и Виндсток",
 
   "minimalVios": "15",
   "minimalVandroid": "7",
-  
+
   "sizeiOS": "1142.9",
   "sizeAdnroid": "1168.2",
   "_comment": "SIZE MB",
 
-"newbrwlde": "Nori und Wendy",
-"seasonBPde": "52 & 53",
-"nameBPde": "NanoNudeln und Windstock",
+  "newbrwlen": "Nori and Wendy",
+  "seasonBPen": "52 & 53",
+  "nameBPen": "NanoNoodles and Windstock",
+  "urllatesten": "https://nulls-brawl.com/nulls-brawl-68-279/",
 
-"newbrwltr": "Nori ve Wendy",
-"seasonBPtr": "52 ve 53",
-"nameBPtr": "NanoNoodle ve Windstock",
+  "newbrwlde": "Nori und Wendy",
+  "seasonBPde": "52 & 53",
+  "nameBPde": "NanoNudeln und Windstock",
+  "urllatestde": "https://nulls-brawl.com/de/nulls-brawl-68-279/",
 
-"newbrwles": "Nori y Wendy",
-"seasonBPes": "52 y 53",
-"nameBPes": "Nanofideos y Eolia",
+  "newbrwltr": "Nori ve Wendy",
+  "seasonBPtr": "52 ve 53",
+  "nameBPtr": "NanoNoodle ve Windstock",
+  "urllatesttr": "https://nulls-brawl.com/tr/nulls-brawl-68-279/",
 
-"newbrwlfr": "Nori et Wendy",
-"seasonBPfr": "52 et 53",
-"nameBPfr": "NanoNoodles et Windstock",
+  "newbrwles": "Nori y Wendy",
+  "seasonBPes": "52 y 53",
+  "nameBPes": "Nanofideos y Eolia",
+  "urllatestes": "https://nulls-brawl.com/es/nulls-brawl-68-279/",
 
-"newbrwlit": "Nori e Wendy",
-"seasonBPit": "52 e 53",
-"nameBPit": "Nanonoodles ed Eolia",
+  "newbrwlfr": "Nori et Wendy",
+  "seasonBPfr": "52 et 53",
+  "nameBPfr": "NanoNoodles et Windstock",
+  "urllatestfr": "https://nulls-brawl.com/fr/nulls-brawl-68-279/",
 
-"newbrwlpl": "Nori i Wendy",
-"seasonBPpl": "52 i 53",
-"nameBPpl": "NanoNoodles i Windstock",
+  "newbrwlit": "Nori e Wendy",
+  "seasonBPit": "52 e 53",
+  "nameBPit": "Nanonoodles ed Eolia",
+  "urllatestit": "https://nulls-brawl.com/it/nulls-brawl-68-279/",
 
-"newbrwlja": "ノリとウェンディ",
-"seasonBPja": "52と53",
-"nameBPja": "ナノヌードルとウィンドストック",
+  "newbrwlpl": "Nori i Wendy",
+  "seasonBPpl": "52 i 53",
+  "nameBPpl": "NanoNoodles i Windstock",
+  "urllatestpl": "https://nulls-brawl.com/pl/nulls-brawl-68-279/",
 
-"newbrwlko": "노리와 웬디",
-"seasonBPko": "52와 53",
-"nameBPko": "나노누들과 윈드스탁",
+  "newbrwlja": "ノリとウェンディ",
+  "seasonBPja": "52と53",
+  "nameBPja": "ナノヌードルとウィンドストック",
+  "urllatestja": "https://nulls-brawl.com/ja/nulls-brawl-68-279/",
 
-"newbrwlhi": "Nori and Wendy",
-"seasonBPhi": "52 & 53",
-"nameBPhi": "NanoNoodles and Windstock",
+  "newbrwlko": "노리와 웬디",
+  "seasonBPko": "52와 53",
+  "nameBPko": "나노누들과 윈드스탁",
+  "urllatestko": "https://nulls-brawl.com/ko/nulls-brawl-68-279/",
 
-"newbrwlptBR": "Nori e Wendy",
-"seasonBPptBR": "52 e 53",
-"nameBPptBR": "NanoNoodles e Ventópole",
+  "newbrwlhi": "Nori and Wendy",
+  "seasonBPhi": "52 & 53",
+  "nameBPhi": "NanoNoodles and Windstock",
+  "urllatesthi": "https://nulls-brawl.com/hi/nulls-brawl-68-279/",
 
-"newbrwlzhCN": "阿宪和温蒂",
+  "newbrwlptBR": "Nori e Wendy",
+  "seasonBPptBR": "52 e 53",
+  "nameBPptBR": "NanoNoodles e Ventópole",
+  "urllatestptBR": "https://nulls-brawl.com/pt/nulls-brawl-68-279/",
+
+  "newbrwlzhCN": "阿宪和温蒂",
   "seasonBPzhCN": "52和53",
-  "nameBPzhCN": "纳米面条和集风城"
+  "nameBPzhCN": "纳米面条和集风城",
+  "urllatestzhCN": "https://nulls-brawl.com/zh/nulls-brawl-68-279/"
 }
